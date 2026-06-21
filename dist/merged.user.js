@@ -1,13 +1,13 @@
 
 // ==UserScript==
 // @name         ModernBot
-// @author       Sau1707
+// @author       Sau1707+Xina
 // @description  A modern grepolis bot
-// @version      1.18.8
+// @version      1.18.9
 // @match        http://*.grepolis.com/game/*
 // @match        https://*.grepolis.com/game/*
-// @updateURL    https://github.com/Sau1707/ModernBot/blob/main/dist/merged.user.js
-// @downloadURL  https://github.com/Sau1707/ModernBot/blob/main/dist/merged.user.js
+// @updateURL    https://raw.githubusercontent.com/NotXina/ModernBot/main/dist/merged.user.js
+// @downloadURL  https://raw.githubusercontent.com/NotXina/ModernBot/main/dist/merged.user.js
 // @icon         https://raw.githubusercontent.com/Sau1707/ModernBot/main/img/gear.png
 // @require		 http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // ==/UserScript==
